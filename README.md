@@ -19,4 +19,4 @@ This project performs an Exploratory Data Analysis (EDA) on the Sample Superstor
 ![Top 10 Products](top_10_profitable_products.png)
 
 ## Contact
-**Luka Kintsurashvili** [Insert your LinkedIn Profile Link here]
+**Luka Kintsurashvili** https://www.linkedin.com/feed/
